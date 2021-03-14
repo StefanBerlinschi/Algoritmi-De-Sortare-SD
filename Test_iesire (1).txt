@@ -1,0 +1,88 @@
+Testul 0: 1000 de elemente mai mici de 100
+Algoritm nativ: 0 microsecunde
+BubbleSort: 2992 microsecunde
+CountSort: 0 microsecunde
+RadixSort: 0 microsecunde
+MergeSort: 0 microsecunde
+QuickSort: 0 microsecunde
+
+Testul 1: 1000 de elemente mai mici de 1000
+Algoritm nativ: 0 microsecunde
+BubbleSort: 2992 microsecunde
+CountSort: 0 microsecunde
+RadixSort: 0 microsecunde
+MergeSort: 0 microsecunde
+QuickSort: 0 microsecunde
+
+Testul 2: 1000 de elemente mai mici de 100000
+Algoritm nativ: 0 microsecunde
+BubbleSort: 2991 microsecunde
+CountSort: 997 microsecunde
+RadixSort: 0 microsecunde
+MergeSort: 0 microsecunde
+QuickSort: 0 microsecunde
+
+Testul 3: 5000 de elemente mai mici de 100
+Algoritm nativ: 0 microsecunde
+BubbleSort: 80783 microsecunde
+CountSort: 0 microsecunde
+RadixSort: 0 microsecunde
+MergeSort: 997 microsecunde
+QuickSort: 1025 microsecunde
+
+Testul 4: 5000 de elemente mai mici de 1000
+Algoritm nativ: 0 microsecunde
+BubbleSort: 77792 microsecunde
+CountSort: 0 microsecunde
+RadixSort: 0 microsecunde
+MergeSort: 997 microsecunde
+QuickSort: 0 microsecunde
+
+Testul 5: 5000 de elemente mai mici de 100000
+Algoritm nativ: 0 microsecunde
+BubbleSort: 76798 microsecunde
+CountSort: 0 microsecunde
+RadixSort: 1002 microsecunde
+MergeSort: 0 microsecunde
+QuickSort: 989 microsecunde
+
+Testul 6: 10000 de elemente mai mici de 100
+Algoritm nativ: 996 microsecunde
+BubbleSort: 326128 microsecunde
+CountSort: 0 microsecunde
+RadixSort: 0 microsecunde
+MergeSort: 998 microsecunde
+QuickSort: 1994 microsecunde
+
+Testul 7: 10000 de elemente mai mici de 10000
+Algoritm nativ: 1994 microsecunde
+BubbleSort: 326128 microsecunde
+CountSort: 997 microsecunde
+RadixSort: 996 microsecunde
+MergeSort: 997 microsecunde
+QuickSort: 997 microsecunde
+
+Testul 8: 30000 de elemente mai mici de 1000
+Algoritm nativ: 3995 microsecunde
+BubbleSort: 3068788 microsecunde
+CountSort: 0 microsecunde
+RadixSort: 1995 microsecunde
+MergeSort: 3989 microsecunde
+QuickSort: 3988 microsecunde
+
+Testul 9: 50000 de elemente mai mici de 1000
+Algoritm nativ: 5986 microsecunde
+BubbleSort: 8594019 microsecunde
+CountSort: 0 microsecunde
+RadixSort: 2995 microsecunde
+MergeSort: 5985 microsecunde
+QuickSort: 7972 microsecunde
+
+Testul 10: 100000 de elemente mai mici de 1000
+Algoritm nativ: 10969 microsecunde
+BubbleSort: 34639389 microsecunde
+CountSort: 0 microsecunde
+RadixSort: 5983 microsecunde
+MergeSort: 13962 microsecunde
+QuickSort: 20944 microsecunde
+
